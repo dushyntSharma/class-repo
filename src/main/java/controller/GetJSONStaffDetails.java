@@ -119,10 +119,18 @@ public class GetJSONStaffDetails extends HttpServlet {
 
 	}
 
+<<<<<<< HEAD
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+=======
+// 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+// 			throws ServletException, IOException {
+// 		// TODO Auto-generated method stub
+// 		doGet(request, response);
+// 	}
+>>>>>>> 5cba44c45e95d6df5363b3ff191c060f03908352
 
 }
